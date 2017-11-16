@@ -10,3 +10,4 @@ if ($leeftijd >= 66){
 } else {
     echo 'De busreis is gratis';
 }
+?>
