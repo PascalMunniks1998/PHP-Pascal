@@ -14,3 +14,4 @@ foreach ($alle as $zwemclub => $leden) {
     echo "</td></tr>";
 }
 print("</table>");
+?>
