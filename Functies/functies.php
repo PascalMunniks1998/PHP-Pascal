@@ -32,7 +32,7 @@ delen();
 echo "<br>";
 Function terug_string() {
     $brengterug = "Dit is een omgekeerde string";
-    echo strrev ("$brengterug");
+    echo ("$brengterug");
 
     return $brengterug;
 }

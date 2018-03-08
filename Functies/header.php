@@ -1,10 +1,11 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>PHP-Pascal</title>
+    <title>PHP-Pascal Functies</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 
 </head>
+
 <body>
 <header>
     <nav>
@@ -13,5 +14,3 @@
         </ul>
     </nav>
 </header>
-
-<section>
