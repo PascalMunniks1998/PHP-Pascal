@@ -14,6 +14,7 @@
             <li><a href="Zwemclub/zwemclubs.php">Zwemclubs</a> </li>
             <li><a href="Kapperszaak/kapperszaak.php">Kapperszaak Sanders</a> </li>
             <li><a href="Functies/functies.php">Functies</a></li>
+            <li><a href="Forms/welkom.php">Forms</a></li>
         </ul>
     </nav>
 </header>
